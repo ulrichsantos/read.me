@@ -5,5 +5,5 @@
 - 🤔 I’m looking for help with React
 - 💬 Ask me about bank life
 - 📫 How to reach me: @UlrichSantos7
-- ⚡ Fun fact: I work for a bank but i hate. I'm lerning code to change my professional life.
+- ⚡ Fun fact: I work for a bank but i hate. I'm learning code to change my professional life.
 
